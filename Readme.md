@@ -14,7 +14,7 @@
   * Download to pool: `!dp fetch mcl://recipe-notch_apple`
   * Install to your current world: `!dp install mcl-recipe-notch_apple`
 
-  If you don't use MCL just [download the zip](https://github.com/mclistener/mcl-dp-recipe-notch_apple/raw/releases/current.zip) and copy the zip file (or extracted folder) to your `<world>/datapacks` directory.
+  If you don't use MCL just [download the zip](https://github.com/mclistener/mcl-dp-recipe-notch_apple/raw/master/releases/current.zip) and copy the zip file (or extracted folder) to your `<world>/datapacks` directory.
 
 ## Usage
 
